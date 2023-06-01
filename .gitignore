@@ -1,3 +1,7 @@
 venv
 data
 models
+output
+mlruns
+artifact
+mlflow.db
