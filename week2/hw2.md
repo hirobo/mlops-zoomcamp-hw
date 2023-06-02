@@ -32,4 +32,12 @@ mlflow server \
 The best validation RMSE => 2.45
 
 ## Q5. Promote the best model to the model registry
+The best test RMSE => 2.285 => 2.185?
+
 ## Q6. Model metadata
+What information does the model registry contain about each model?
+=>
+* Version number
+* Source experiment
+* Model signature
+* All the above answers are correct (*)
