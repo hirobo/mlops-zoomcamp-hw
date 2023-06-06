@@ -1,0 +1,8 @@
+deployments:
+- name: week3-q3-q4
+  version: null
+  tags: ["mlops-zoomcamp"]
+  entrypoint: week3/orchestrate.py:main_flow
+  work_pool:
+    name: mlops-zoomcamp-process
+

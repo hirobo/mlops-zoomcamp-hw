@@ -1,7 +1,13 @@
 venv
 data
+!week3/data
 models
 output
 mlruns
 artifact
 mlflow.db
+*.pyc
+__pycache__
+
+*-deployment.yaml
+.prefect
