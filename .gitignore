@@ -6,8 +6,13 @@ output
 mlruns
 artifact
 mlflow.db
+
+week4/output_yellow_tripdata_*.parquet
+
 *.pyc
 __pycache__
 
 *-deployment.yaml
 .prefect
+.ipynb_checkpoints
+.vscode/
